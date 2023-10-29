@@ -1,3 +1,4 @@
+#Author: spasemax0
 import subprocess
 import time
 

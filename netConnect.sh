@@ -1,4 +1,3 @@
-# Author: spasemax0
 log_file="User/Desktop/netscan_logz.txt" # Specify log path, change as needed
 
 scan_and_connect() {

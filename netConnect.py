@@ -1,4 +1,3 @@
-#Author: spasemax0
 import subprocess
 import time
 
@@ -42,3 +41,4 @@ def scan_and_connect():
 
 # Run the scan_and_connect function
 scan_and_connect()
+
